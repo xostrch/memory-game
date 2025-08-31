@@ -39,6 +39,17 @@ body{
     align-items: center;
     border-radius: 0.2em;
     cursor: pointer;
+    color: transparent;
+}
+
+.flipped{
+    color: black;
+}
+
+.matched{
+    color: black;
+    background-color: rgb(210, 210, 210);
+    cursor: default;
 }
 
 #restartGamePosition{
